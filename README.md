@@ -1,2 +1,2 @@
 # Functional-Programming
-Scheme and Haskell tasks
+Racket and Haskell tasks
